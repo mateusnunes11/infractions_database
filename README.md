@@ -1,3 +1,5 @@
+infractions_database
+
 Este é um sistema de gerenciamento de infrações de trânsito, acompanhado de um modelo físico de banco de dados e consultas SQL para atender a requisitos específicos. A seguir estão detalhes sobre os arquivos e como utilizar o sistema.
 
 Arquivos:
